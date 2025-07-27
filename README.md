@@ -36,9 +36,6 @@ The dashboard enables HR teams and management to visualize important KPIs and ta
   - Salary, Job Role, Experience
   - Attrition, Satisfaction Score, Performance Rating
 
-## 📷 Sample Screenshot
-
-> *(Insert screenshot here once uploaded)*
 
 ## 👤 Author
 
@@ -48,4 +45,3 @@ Passionate about data analytics, visualization, and business intelligence.
 
 ---
 
-📌 *Note: Dashboard is designed for demo/learning purposes using dummy HR data.*
